@@ -34,7 +34,18 @@ You can return the answer in any order.
 Use a nested loop to iterate through each result until we find the `target`.
 - Time complexity: O(n<sup>2</sup>)  
 
+|  Language  |  Runtime  |  Memory  |
+|  :---:  |  :---:  |  :---:  |
+|  C  |  194 ms  |  6.2 MB  |
+|  Python|  6296 ms  |  15 MB  |
+
+
 
 ### Hash or Dictionary
 Check from the map each time whether the `target` is in the map. If found, we can get the result. If not found, put a set of (`num`, `index`) into map. 
 - Time complexity: O(n)
+
+|  Language  |  Runtime  |  Memory  |
+|  :---:  |  :---:  |  :---:  |
+|  C  |  201 ms  |  65.3 MB  |
+|  Python|  99 ms  |  15.3 MB  |
