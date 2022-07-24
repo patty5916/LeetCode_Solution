@@ -12,7 +12,7 @@ Personal LeetCode problem solving record, mainly using Python and using C occasi
 <details>
   <summary>Medium</summary>
   <pre>
-    
+    <a href=https://github.com/patty5916/LeetCode_Solution/tree/main/Medium/Add%20Two%20Numbers>Add Two Numbers</a>
   </pre>
 </details>
 
