@@ -13,6 +13,7 @@ Personal LeetCode problem solving record, mainly using Python and using C occasi
   <summary>Medium</summary>
   <pre>
     <a href=https://github.com/patty5916/LeetCode_Solution/tree/main/Medium/Add%20Two%20Numbers>Add Two Numbers</a>
+    <a href=https://github.com/patty5916/LeetCode_Solution/tree/main/Medium/Longest%20Substring%20Without%20Repeating%20Characters>Longest Substring Without Repeating Characters</a>
   </pre>
 </details>
 
