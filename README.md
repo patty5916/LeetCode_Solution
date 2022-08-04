@@ -6,6 +6,7 @@ Personal LeetCode problem solving record, mainly using Python and using C occasi
   <summary>Easy</summary>
   <pre>
     <a href=https://github.com/patty5916/LeetCode_Solution/tree/main/Easy/Two%20Sum>Two Sum</a>
+    <a href=https://github.com/patty5916/LeetCode_Solution/tree/main/Easy/Palindrome%20Number>Palindrome Number</a>
   </pre>
 </details>
 
