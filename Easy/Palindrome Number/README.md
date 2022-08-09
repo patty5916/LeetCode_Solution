@@ -39,3 +39,4 @@ Each loop multiplies the `backward` by 10 and adds the single digit extracted fr
 |  :---:  |  :---:  |  :---:  |
 |  Python (solution1)  |  110 ms  |  13.9 MB  |
 |  Python (solution2)  |  146 ms  |  13.8 MB  |
+|  C (solution2)  |  4 ms  |  5.9 MB  |
